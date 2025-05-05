@@ -10,3 +10,9 @@ public:
         cout << " NO Induk = " << nim << endl;
     }
 };
+
+int main()
+{
+    mahasiswa mhs(i); // object mhs
+    mhs, showNIM();
+}
